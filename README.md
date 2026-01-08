@@ -28,12 +28,12 @@ capability, safety, and trust.
 ## Solution Approach
 
 The pipeline follows a multi-stage safety-first design:
-User Input
-↓
+User Input ->
+
 Intent / Risk Classification
-↓
+->
 Secondary Content-Level Check
-↓
+->
 Guardrail Decision
-↓
+->
 Response Strategy
